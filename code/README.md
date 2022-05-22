@@ -12,7 +12,8 @@ GenCNN.ipynb 使用GenCNN判断环
 
 # AutoGluon Resnet-50 对比
 
-predictor.ag 是autogluon产生的环判别Resnet-50模型
+predictor.ag 是autogluon产生的环判别Resnet-50模型 
+由于文件太大故不放在github上。
 
 train.ipynb 是用于产生predictor.ag的文件
 
